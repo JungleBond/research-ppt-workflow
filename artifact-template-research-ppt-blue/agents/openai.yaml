@@ -1,0 +1,7 @@
+interface:
+  display_name: "Research PPT Blue"
+  short_description: "固定蓝白科研模板，先讲稿与证据，再排版及集中审校，减少反复改稿"
+  icon_large: "./assets/preview.png"
+  default_prompt: "使用 $artifact-template-research-ppt-blue 制作中文科研PPT，开场让非本领域听众理解问题和价值，中段逐步深入并准备追问与证据，讲稿自然专业、逐页递进；沿用蓝白模板，图文对应、字体不小于18磅，无视频，审校后交付。"
+policy:
+  allow_implicit_invocation: true
